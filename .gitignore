@@ -6,6 +6,6 @@ __pycache__/
 # Ignore virtual environment files
 .venv
 
-
+.DS_Store
 .empty/
 .vscode/

@@ -25,3 +25,7 @@ The frontend is written using [Streamlit](https://streamlit.io/).
 ## Misc
 
 [ListenNotes](https://www.listennotes.com/) useful for getting podcast RSS feeds.
+
+## Architecture Diagram
+
+![Podcast AI Summary App](/assets/podcast-ai-summarizer-architecture.png)
