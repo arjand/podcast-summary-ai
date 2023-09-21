@@ -1,6 +1,8 @@
 # Podcast Summary App
 
-This web application allows viewers to see summaries of podcast episodes. There are 3 example summaries as well as the option for users to get a summary of a podcast by submitting an RSS feed. Podcast sumaries are created by transcribing audio to text using OpenAI Whisper and then summarizing using the Open AI gpt-3.5-turbo model.
+This web application allows viewers to see information about recent podcast episodes. It includes a summary, guest details, and key moments. There are 3 example summaries as well as the option for users to get a summary of a podcast by submitting an RSS feed.
+
+This is a simple project to demonstrate an AI application. It uses Open AI Whisper to do the audio transcription of the podcast, OpenAI gpt-3.5-turbo model to generate the summary, key moments, and guest information from the podcast, Modal to host cloud functions to do the processing, and Streamlit to provide a basic UI for people to interface with.
 
 This app was built as part of the course [Building AI Products with OpenAI](https://uplimit.com/course/building-ai-products-with-openai).
 
